@@ -1,5 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Enock Katui
 
+I'm passionate about Data Science, machine learning and AI.  
+This GitHub is where I share my learning journey, projects, and experiments.
+
+## 🚀 Projects
+- 🤖 [Mental Health AI Agent](https://github.com/poip-boop/mental_health_AI_Agent)
+- 📊 [Retail_Sales_Forecast](https://github.com/poip-boop/retail-sales-forecasting)
+- 🧠 [DSA Practice](https://github.com/poip-boop/DSA)
+
+## 💼 Skills
+`Python` `FastAPI` `Streamlit` `LangChain` `Git`  
+`Pandas` `NumPy` `Matplotlib` `SQL` `Machine Learning`
+
+## 🌱 Currently Learning
+- AI engineering
 <!--
 **poip-boop/poip-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
