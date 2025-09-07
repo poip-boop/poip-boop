@@ -1,33 +1,62 @@
-# 👋 Hi, I'm Enock 
+# 👋 Hi, I'm Enock  
 
-I'm passionate about Data Science, machine learning and AI.  
-This GitHub is where I share my learning journey, projects, and experiments.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Welcome to my GitHub!  
 
-## 🚀 Projects
-- 🤖 [Mental Health AI Agent](https://github.com/poip-boop/mental_health_AI_Agent)
-- 📊 [Retail Sales Forecast](https://github.com/poip-boop/retail-sales-forecasting)
-- 🧠 [DSA Practice](https://github.com/poip-boop/DSA)
+💡 I'm passionate about **Data Science, Machine Learning, and AI**.  
+This is where I share my **learning journey**, **projects**, and **experiments**.  
 
-## 💼 Skills
+---
+
+## 🚀 Projects  
+
+- 🤖 [Mental Health AI Agent](https://github.com/poip-boop/mental_health_AI_Agent) – AI-powered mental health assistant using LLMs, FastAPI, and Streamlit.  
+- 📊 [Retail Sales Forecast](https://github.com/poip-boop/retail-sales-forecasting) – Time series forecasting for retail sales.  
+- 🧠 [DSA Practice](https://github.com/poip-boop/DSA) – Data Structures & Algorithms implementations.  
+- 🚢 [Titanic linear_regression Project](https://github.com/poip-boop/Linear_regression_project) – Predicting Titanic passenger survival with ML.  
+
+---
+
+## 💼 Skills  
+
 `Python` `FastAPI` `Streamlit` `LangChain` `Git`  
-`Pandas` `NumPy` `Matplotlib` `SQL` `Machine Learning`
+`Pandas` `NumPy` `Matplotlib` `SQL` `Machine Learning`  
 
-## 🛠️ Languages and Tools
+---
 
-<p>
+## 🛠️ Languages & Tools  
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-</p>
-
-## 🌱 Currently Learning
-- AI engineering
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+</p>  
 
 ---
 
-### 📊 GitHub Stats
+## 🌱 Currently Learning  
 
-![Enock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poip-boop&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poip-boop&layout=compact&theme=radical)
+🌟 Diving deeper into **AI Engineering**, including:  
+- RAG (Retrieval-Augmented Generation)  
+- AI Agents with LangChain  
+- Deployment with FastAPI & Streamlit  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poip-boop&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poip-boop&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## ✨ Fun Section  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding GIF"/>
+</p>
