@@ -9,10 +9,17 @@ This is where I share my **learning journey**, **projects**, and **experiments**
 
 ## 🚀 Projects  
 
-- 🤖 [Mental Health AI Agent](https://github.com/poip-boop/mental_health_AI_Agent) – AI-powered mental health assistant using LLMs, FastAPI, and Streamlit.  
-- 📊 [Retail Sales Forecast](https://github.com/poip-boop/retail-sales-forecasting) – Time series forecasting for retail sales.  
-- 🧠 [DSA Practice](https://github.com/poip-boop/DSA) – Data Structures & Algorithms implementations.  
-- 🚢 [Titanic linear_regression Project](https://github.com/poip-boop/Linear_regression_project) – Predicting Titanic passenger survival with ML.  
+- 🤖 [Mental Health AI Agent](https://github.com/poip-boop/mental_health_AI_Agent)  
+  *AI-powered mental health assistant using LLMs, FastAPI, and Streamlit.*  
+
+- 📊 [Retail Sales Forecast](https://github.com/poip-boop/retail-sales-forecasting)  
+  *Time series forecasting for retail sales using classical and ML models.*   
+
+- 🚢 [Titanic_survivors_predictor_using_random_forest](https://github.com/poip-boop/Titanic_survivors_predictor_using_random_forest)  
+  *Predicting Titanic passenger survival with ML.*  
+
+- 🔬 [Linear Regression from Scratch – Auto MPG](https://github.com/poip-boop/Linear_regression_from_scratch_on_MPG)  
+  *Inspired by Andrew Ng’s ML Specialization. A fully custom implementation of Linear Regression using only NumPy & Pandas, with EDA, feature scaling, regularization, and gradient descent.*  
 
 ---
 
